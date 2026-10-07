@@ -1,6 +1,6 @@
 # OI 👋, Eu sou João Vitor Sena 
 
-Estou no segundo semestre de Ciencias da Computaoção na Universidade de Fortaleza
+Estou no segundo semestre de Ciencias da Computação na Universidade de Fortaleza
 
 tenho conhecimento em IA, JavaScript,html e css
 e estou aprendendo Java
@@ -26,6 +26,7 @@ e estou aprendendo Java
 - Empatia
 - Comunicação clara
 - Responsabilidade
+- inglês fluente 
 
 ## 🛠️HardSkills
 
