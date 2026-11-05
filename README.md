@@ -40,8 +40,7 @@ e estou aprendendo Java
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaovsena123&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovsena123&layout=compact&theme=tokyonight&locale=pt-br" />
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovsena123)](https://github.com/joaovsena123/github-readme-stats)
 </p>
 
 ⭐ Se você gostou do meu trabalho, considere dar uma estrela em um repositório  
